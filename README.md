@@ -1,7 +1,7 @@
 # Stepper Motor Sequence Controller
 
 ## Project Description
-This project involves programming a Raspberry Pi Pico to control a stepper motor, executing a specific sequence of rotations[^2^][2]. Input is provided through a 4x4 matrix keypad, and the sequence is displayed on an LCD.
+This project involves programming a Raspberry Pi Pico to control a stepper motor, executing a specific sequence of rotations. Input is provided through a 4x4 matrix keypad, and the sequence is displayed on an LCD.
 
 ## Hardware Description
 Key components used in this project include:
